@@ -1,7 +1,7 @@
 # Appointment-Scheduler
 A project I created to help out at work.
 
-![Acuity to Sheets to Slack](https://peterfoxflick.github.io/assets/projects/appointmentScheduler.jpg)
+![Acuity to Sheets to Slack](https://peterfoxflick.github.io/assets/projects/appointmentScheduler.png)
 
 ## The Problem
 In April of 2018, my university announced that they would transition to a new Learning Managment System (LMS). This transition would involve multiple departments, and my office was in charge of coordinating the initial meeting with the faculty members to get their course started on the transition. Every faculty would have to meet with someone from our department. They sign up on Acuity, and we would assign each appointment to a representative from our office.
